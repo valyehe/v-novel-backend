@@ -1,6 +1,6 @@
 ## 项目简介
 
-本项目仿照配备[novel](https://docs.xxyopen.com/course/novel)开发完成
+本项目仿照[novel](https://docs.xxyopen.com/course/novel)开发完成
 
 novel 是一套基于Java技术栈 Spring Boot 3 + Ant Design Pro 开发的前后端分离
 小说项目，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。
